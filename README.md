@@ -1,5 +1,5 @@
 libft
-Libft (42cursus) 2019-2020
+Libft (42cursus) 2023-2025.
 
 Actual Status : finished.
 Result : 115%
